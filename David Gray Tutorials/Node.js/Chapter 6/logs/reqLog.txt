@@ -1,0 +1,107 @@
+07/16/2025	11:30:58	e4ee9fb9-c181-49a8-9601-3098b3928aac	/new-page.html	GET
+07/16/2025	11:30:58	9d75d066-d00e-4b21-a5e5-4933da88899a	/css/style.css	GET
+07/16/2025	11:30:58	52055264-7a09-465e-a86a-6677c14d5969	/img/img1.jpg	GET
+07/16/2025	11:52:33	4191eba5-38ac-4f18-aaaf-bacd9bca01a6	/	GET
+07/16/2025	11:52:33	5a4b915b-abfd-4019-8b68-68e8d00590ab	/css/style.css	GET
+07/16/2025	11:52:34	bb3fac3e-d217-4490-b6db-5771d8425980	/favicon.ico	GET
+07/16/2025	11:57:53	e7527bc4-93b2-4f91-b60a-03f198d0adf9	/	GET
+07/16/2025	11:57:53	3553e16b-0c74-4028-98b7-45acb7689b1d	/css/style.css	GET
+07/16/2025	11:57:57	62ec1a0a-5c61-436a-a21e-923616443be7	/	GET
+07/16/2025	11:57:57	10b5b592-1607-4a5a-a4d6-4acfeb50fc4a	/css/style.css	GET
+07/16/2025	11:58:02	66e530e0-3319-470b-a830-2f193afb34b8	/new-page.html	GET
+07/16/2025	11:58:02	09f70cf4-b598-4b9d-99df-39bd9be6ee56	/css/style.css	GET
+07/16/2025	11:58:02	ab18c5ff-7bf3-477f-9208-551e49afdda9	/img/img1.jpg	GET
+07/16/2025	12:01:44	5c61354b-f83c-46ab-b1fc-bd9e3171d779	/new-page.html	GET
+07/16/2025	12:01:45	5fdc153d-e4b2-4f53-9f6b-dbbd57b65292	/css/style.css	GET
+07/16/2025	12:01:45	2977f8f0-abc1-480f-bcb3-b2a901fe0d8d	/img/img1.jpg	GET
+07/16/2025	12:04:37	1399dfdb-72ed-4ad0-992c-fd7ff2498f41	/subdir	GET
+07/16/2025	12:04:37	9a11637a-59d7-4e25-960f-33ba461a9818	/css/style.css	GET
+07/16/2025	12:05:01	26158fb8-dbfb-49be-956d-48059013ccdb	/subdir/index.html	GET
+07/16/2025	13:07:27	ff8492d1-c5f2-4d90-8843-bae7634ffa0c	/subdir/index.html	GET
+07/16/2025	13:08:21	8baa0f97-7db7-4d99-912b-0d2c71d44844	/subdir/index.html	GET
+07/16/2025	13:08:45	0b2bd7b6-c35b-4498-921f-57197a70f6fe	/subdir/index.html	GET
+07/16/2025	13:16:37	0b530625-015a-463d-b6a2-b6687519e1f1	/	GET
+07/16/2025	13:16:38	df2a258d-19c9-4539-93d1-669cb02373d3	/css/style.css	GET
+07/17/2025	15:44:42	735b5bfa-5699-4f80-b07b-75451a06072f	GET	undefined	/
+07/17/2025	15:44:42	2ade0e62-8f34-4863-9d2e-22b32d4df23a	GET	undefined	/css/style.css
+07/17/2025	15:48:00	0d2321ce-84f2-45fc-a5aa-490c97745fda	GET	undefined	/
+07/17/2025	15:48:01	bfe3c0a4-0266-4f92-b087-d9576a11d40f	GET	undefined	/css/style.css
+07/17/2025	15:51:21	c97e110b-1600-426f-8ac7-9db9d2adb7b4	OPTIONS	https://www.google.com	/
+07/17/2025	15:51:21	f4e030b8-e3aa-4845-bbfc-645913405dc8	GET	https://www.google.com	/
+07/17/2025	15:54:07	8d6fb1fe-bfef-4110-afb9-bf4548fe5cc7	OPTIONS	https://www.google.com	/
+07/17/2025	15:54:07	99f75ab0-8f06-489e-a6fe-3899f6fe9c78	GET	https://www.google.com	/
+07/17/2025	15:56:51	737f46e9-9553-41a4-aa0e-59adaaec0f86	GET	undefined	/
+07/17/2025	15:56:51	39aeb9c2-7eef-4102-a70b-f26d1c613426	GET	undefined	/css/style.css
+07/17/2025	15:56:51	a28440b0-0019-479a-8468-d5552b99d331	GET	undefined	/favicon.ico
+07/17/2025	16:00:37	a5431759-80e9-48be-8d86-eb05596d8c77	OPTIONS	https://www.google.com	/
+07/17/2025	16:00:37	a3d9790a-d925-41e4-bd14-9d2ad40b0033	GET	https://www.google.com	/
+07/17/2025	16:01:40	c15b7017-24ad-4313-8b21-42db9113ff2d	OPTIONS	https://www.google.com	/
+07/17/2025	16:01:40	594472b6-9df2-4f07-84cd-36cd0814da9c	GET	https://www.google.com	/
+07/17/2025	16:01:55	99a61cf8-3f5b-4046-91c0-a6d97d393275	GET	undefined	/
+07/17/2025	16:02:13	d5a31925-779e-43e1-8024-b8f4f451d0a3	GET	undefined	/
+07/17/2025	16:02:15	5f6f32d2-16c8-4026-a106-a6c5ed869ec8	GET	undefined	/
+07/17/2025	16:04:33	cf2906d3-7e5a-4e3f-bf8b-ff2132a5c605	GET	undefined	/
+07/17/2025	16:06:38	1ac4e7b8-e79e-4b4c-824e-e4c58870f066	GET	undefined	/
+07/17/2025	16:06:38	7286b6d6-a0e3-4236-afb7-09b365c52e42	GET	undefined	/css/style.css
+07/17/2025	16:06:39	479422d3-b8ed-46a0-8016-c63341e0a87c	GET	undefined	/favicon.ico
+07/17/2025	16:06:45	7241ac2e-8240-4066-bc3d-00f7b88b1621	GET	undefined	/
+07/17/2025	16:06:45	4aed262c-496f-4835-bc2b-38e681af4f8c	GET	undefined	/css/style.css
+07/17/2025	16:07:20	e593c83c-9e0a-4c89-bb60-caf6aaf9cb02	GET	undefined	/
+07/17/2025	16:07:20	386c13cc-45bd-439d-a3b8-6befdadb13ba	GET	undefined	/css/style.css
+07/17/2025	16:07:24	2bfdca0e-b7cc-4c49-8218-c0e445c868a0	GET	undefined	/
+07/17/2025	16:07:24	c3837540-301c-4670-b4ce-ec2dd438e060	GET	undefined	/css/style.css
+07/17/2025	16:08:03	71193300-b49d-47cf-8f87-edf1aa4dee65	GET	undefined	/
+07/17/2025	16:08:03	743af8ee-bb7c-47d3-8b53-d901c8336287	GET	undefined	/css/style.css
+07/17/2025	16:18:10	aabbb9c9-3a35-412b-a7f3-0e5f1dbc10fd	OPTIONS	https://www.google.com	/
+07/17/2025	16:18:10	f1b00050-3a8c-4a7e-a09b-8663c74a5f8e	GET	https://www.google.com	/
+07/17/2025	16:18:16	847ca587-9341-41dd-a4bc-65596e5f144f	GET	undefined	/
+07/17/2025	16:18:16	a1914386-5d3f-4071-a104-12dd3a932582	GET	undefined	/css/style.css
+07/17/2025	16:30:38	cac744d7-7c65-45c1-a00e-b76ed38c2813	GET	undefined	/
+07/17/2025	16:31:21	bb1dbed7-f9a6-41ad-8b40-07d81627e1ac	GET	undefined	/
+07/17/2025	16:31:21	d321db16-55ef-4fc9-ba7d-03fd342bf67c	GET	undefined	/css/style.css
+07/17/2025	16:46:56	ee204adf-89ca-48be-80fd-34ed8d4d2b6f	GET	undefined	/
+07/17/2025	16:46:56	291c627e-d9b3-4f91-96d6-2a9b1a1b1c94	GET	undefined	/css/style.css
+07/17/2025	16:47:12	50cc7428-4d62-4036-a566-58995b53e627	GET	undefined	/subdir
+07/17/2025	16:47:23	1fe49e24-5c99-4825-a925-803631092718	GET	undefined	/subdir/test
+07/17/2025	16:47:32	392d0624-7bdb-4e57-8670-5f12e95f08a6	GET	undefined	/subdir/tet
+07/17/2025	16:47:33	faef7d8a-005e-4dd8-bc84-20ee2b710e15	GET	undefined	/subdir/css/style.css
+07/17/2025	16:49:17	84b14b48-54cb-45ce-a2ad-a9da5401a87a	GET	undefined	/subdir/tet
+07/17/2025	16:49:17	8a84fa5a-a1fa-4b7a-aff1-e90aed4798d4	GET	undefined	/subdir/css/style.css
+07/17/2025	16:49:19	9a5e0438-4817-4e5b-a06a-69d09b6d1a97	GET	undefined	/subdir/tet
+07/17/2025	16:49:19	abab602a-b6ca-42b1-9bc5-243013f3eb89	GET	undefined	/subdir/css/style.css
+07/17/2025	16:49:34	53bd9f98-fa19-4d63-b2d7-78fb95261b8a	GET	undefined	/subdir/tet
+07/17/2025	16:49:34	109eb170-40f7-400a-97f3-cfc92f8d7b41	GET	undefined	/subdir/css/style.css
+07/17/2025	16:56:37	27f59148-9eed-4624-8d30-2837ac34d56e	GET	undefined	/
+07/17/2025	16:56:37	389e368d-d7de-4893-a70f-df3ba093ab1b	GET	undefined	/css/style.css
+07/17/2025	16:56:50	98b8801f-77c8-42e6-953f-89a9c4385a3e	GET	undefined	/new-page
+07/17/2025	16:56:50	30acd179-da88-45a9-bcc0-a8310d2433dc	GET	undefined	/css/style.css
+07/17/2025	16:56:50	6f7d5134-8aaa-4017-bd4e-7bc0142ea4c4	GET	undefined	/img/img1.jpg
+07/17/2025	16:56:55	b5268898-7c1c-4985-a016-9b7da4612bf2	GET	undefined	/new-page.html
+07/17/2025	16:56:55	712c3a11-dbc9-4648-b820-24ee7e57e7a4	GET	undefined	/css/style.css
+07/17/2025	16:56:55	46fb81ba-fcc5-41aa-870d-374ea5f26398	GET	undefined	/img/img1.jpg
+07/17/2025	16:57:12	1db8160d-38ae-4703-80ca-be816cf2e93d	GET	undefined	/index
+07/17/2025	16:57:12	0c49714d-b355-47eb-8fe1-f01b4d1d77cd	GET	undefined	/css/style.css
+07/17/2025	17:07:19	209bbfaa-7f70-496c-ac63-946bd3fabdc7	GET	undefined	/index
+07/17/2025	17:07:19	fbd803aa-2bf4-4483-8278-c1103dfe7be0	GET	undefined	/css/style.css
+07/17/2025	17:08:25	7bea79bc-7011-40c0-8611-c1752847ba95	GET	undefined	/employees
+07/17/2025	17:08:34	a0d05ef7-9bd6-4d3e-b158-1d923218f624	GET	undefined	/employees
+07/17/2025	17:08:50	b3e68b08-3758-4de4-ad53-d6024736adb7	POST	undefined	/employees
+07/17/2025	17:13:20	b8ffadd8-c750-4800-848e-f725a3701539	POST	undefined	/employees
+07/17/2025	17:13:26	d2b1ed20-812a-4659-8bed-95034116e0fd	POST	undefined	/employees
+07/17/2025	17:13:51	46c8c782-11c5-47a4-9735-1088b5d29524	POST	undefined	/employees
+07/17/2025	17:15:11	eb6b2a1e-10e0-481e-98cb-5ccc002d5371	PUT	undefined	/employees
+07/17/2025	17:15:46	6c3eda4e-4ab2-41ac-9877-e07d54489859	DELETE	undefined	/employees
+07/17/2025	17:15:58	84b96341-c590-486c-9abb-81cf3b90fbba	DELETE	undefined	/employees/1
+07/17/2025	17:16:19	13e4f3ed-691f-403f-82ae-d948cf512289	GET	undefined	/employees/1
+07/19/2025	08:58:35	b55c76c9-f710-411c-830f-e44c166fcf85	GET	undefined	/
+07/19/2025	08:58:35	110c261d-5d66-4e54-8ba6-381cfc8fa5c5	GET	undefined	/css/style.css
+07/19/2025	08:58:39	fb62fac7-f78b-4ceb-8f9f-f3399a851a34	GET	undefined	/index
+07/19/2025	08:58:40	e99d74ae-0c69-41d0-8157-64301d6c93e0	GET	undefined	/css/style.css
+07/19/2025	08:58:44	9f4fa5d9-0952-40b6-8844-9bae3d42071c	GET	undefined	/favicon.ico
+07/19/2025	08:58:52	94d28eb3-eb48-421d-9e9b-44b43d97cdff	GET	undefined	/views
+07/19/2025	08:58:52	4f6e2e08-6584-4f56-8d2c-9d9d405dc3c0	GET	undefined	/css/style.css
+07/19/2025	08:59:10	d71c04d2-5d5b-4a76-9400-7bcc5c8664f4	GET	undefined	/new-page
+07/19/2025	08:59:10	914201ee-2962-4d3a-a796-106e6e9a8987	GET	undefined	/img/img1.jpg
+07/19/2025	08:59:10	8c3b3610-9f4f-4168-b6e2-5f164224a3e2	GET	undefined	/css/style.css
+07/24/2025	17:43:25	3a10dde4-59bf-40f5-8cfa-41ac4787a55a	GET	undefined	/employees
+07/24/2025	17:45:05	3c9c84ef-c4a7-48cd-bb68-5a393e542cf2	POST	undefined	/employees
