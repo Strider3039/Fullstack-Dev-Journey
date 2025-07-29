@@ -2,7 +2,7 @@
 
 Welcome! This repository documents my journey to becoming a **full-stack developer**, containing:
 
-- 🧠 **Tutorials** I’m following step by step (Courtesy of @gitdagray)
+- 🧠 **Tutorials** I’m following step by step (based on the work of [@gitdagray](https://github.com/gitdagray))
 - 🛠️ **Projects** I build to apply what I’ve learned
 - 📈 A clear progression through major learning milestones
 
