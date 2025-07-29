@@ -6,3 +6,15 @@ body {
     background-color: #333;
     color: whitesmoke;
 }
+
+a {
+    color: rgb(217, 237, 254);
+}
+
+a:visited {
+    color: rgb(143, 203, 255);
+}
+
+a:hover, a:active {
+    color: #eee;
+}
