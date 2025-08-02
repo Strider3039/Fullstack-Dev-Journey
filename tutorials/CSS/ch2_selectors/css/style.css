@@ -1,0 +1,54 @@
+/* IMPORTANT SITES:
+    jigsaw.w3.org
+    specificity.keegan.st
+*/
+
+/* every element applies attributes, different from inheritance */
+/* * {
+    font-family: monospace;
+} */
+
+/* every html element inherits attributes */
+html {
+    font-size: 22px;
+}
+
+/* every element inside body inherits attributes */
+body {
+    
+}
+
+main {
+    font-family: monospace;
+}
+
+/* can group selectors together */
+/* prettier-ignore */
+h1, h2 {
+    color: blue;
+}
+
+p {
+    color: purple;
+}
+
+/* nested element: any span INSIDE p */
+/* p span {
+    text-transform: uppercase;
+    background-color: gold;
+} */
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+/* class */
+.gray {
+    color: gray;
+}
+
+/* id, not practice good to use */
+#second {
+    font-style: italic;
+}
