@@ -1,0 +1,15 @@
+/* example of css reset  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    /* content-box: size is calculated strictly by content */
+    /* border-box: size is calculated by adding in all parts of element */
+}
+
+h1 {
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+}
