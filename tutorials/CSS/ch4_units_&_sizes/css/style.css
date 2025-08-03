@@ -1,0 +1,38 @@
+/*  
+    px-pixel: 1/96th of 1in
+    pt-point: 1/72nd of 1in
+    pc-pica: 1/6th of 1in
+    rem: relates to root element size (set by browser)
+    em: relates to current element size
+    ch: relates to the current fonts "0" width
+    vw, vh: relates to 1% of devices screen dimensions
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%; 
+    /* ^^ using vw here causes scrollbar problem */
+
+    min-height: 100vh;
+}
+
+h1 {
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: .5em;
+}
+
+main {
+
+}
+
+p {
+    font-size: 2rem;
+    width: 40ch
+}
