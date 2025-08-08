@@ -11,6 +11,18 @@ p {
 }
 
 a {
-    text-decoration: none;
-    cursor: not-allowed;
+    color: hsl(207, 44%, 49%);
+}
+
+/* a:visited {
+    color: purple;
+} */
+
+a:hover,
+a:focus {
+    color: hsl(207, 44%, 49%, 0.8);
+}
+
+a:active {
+    color: red;
 }
