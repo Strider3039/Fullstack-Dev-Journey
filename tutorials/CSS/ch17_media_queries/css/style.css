@@ -22,6 +22,7 @@ header, nav, main, footer {
     display: grid;
     place-content: center;
     grid-template-columns: 100%;
+    text-align: center;
 }
 
 header, footer {
@@ -47,4 +48,15 @@ main {
 
 footer {
     bottom: 0;
+}
+
+/* || Small */
+@media screen and (min-width: 576px) {
+    body {
+        background-color: green;
+        background-image: radial-gradient(whitesmoke, green);
+    }
+    nav {
+        display: none;
+    }
 }
