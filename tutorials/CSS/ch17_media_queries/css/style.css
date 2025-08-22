@@ -18,14 +18,18 @@ body {
     flex-direction: column;
 }
 
-header, nav, main, footer {
+header,
+nav,
+main,
+footer {
     display: grid;
     place-content: center;
     grid-template-columns: 100%;
     text-align: center;
 }
 
-header, footer {
+header,
+footer {
     position: sticky;
     background-color: #1e293b;
     color: whitesmoke;
@@ -56,6 +60,46 @@ footer {
         background-color: green;
         background-image: radial-gradient(whitesmoke, green);
     }
+    nav {
+        display: none;
+    }
+}
+
+/* || Medium */
+@media screen and (min-width: 768px) {
+    body {
+        background-color: gold;
+        background-image: radial-gradient(whitesmoke, gold);
+    }
+}
+
+/* || Large */
+@media screen and (min-width: 992px) {
+    body {
+        background-color: firebrick;
+        background-image: radial-gradient(whitesmoke, firebrick);
+    }
+}
+
+/* || XL */
+@media screen and (min-width: 1200px) {
+    body {
+        background-color: rebeccapurple;
+        background-image: radial-gradient(whitesmoke, rebeccapurple);
+    }
+}
+
+/* || Mobile Device Landscape */
+@media screen and (max-height: 425px) and (min-aspect-ratio: 7/4){
+    body {
+        background-color: dodgerblue;
+        background-image: radial-gradient(whitesmoke, dodgerblue);
+    }
+
+    h1, h2 {
+        font-size: 1.5rem;
+    } 
+
     nav {
         display: none;
     }
