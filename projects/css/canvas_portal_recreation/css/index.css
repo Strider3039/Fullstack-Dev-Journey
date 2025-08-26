@@ -1,0 +1,53 @@
+/* CSS RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --LEFT_NAV_BGCOLOR: #333;
+    --LEFT_NAV_BGCOLOR_ALT: hsl(0, 0%, 16%);
+}
+
+.left-nav {
+    position: fixed;
+    background-color: var(--LEFT_NAV_BGCOLOR);
+    color: white;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100%;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: crimson;
+    width: 100%;
+    height: 100px;
+}
+.lion {
+    font-size: 40px;
+}
+
+.left-nav-item {
+    padding: .5rem;
+    transition: background .4s ease;
+    width: 100%;
+    text-align: center;
+}
+
+.left-nav-item:hover, .left-nav-item:hover:focus {
+    background: var(--LEFT_NAV_BGCOLOR_ALT);
+}
+
+.dashboard {
+    display: block;
+}
+
+.courses {
+    display: block;
+}
