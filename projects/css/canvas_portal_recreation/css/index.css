@@ -10,6 +10,15 @@
     --LEFT_NAV_BGCOLOR_ALT: hsl(0, 0%, 16%);
 }
 
+.app {
+    display: flex;
+    flex-flow: row;
+}
+
+.left-nav-container {
+    width: 54.92px;
+}
+
 .left-nav {
     position: fixed;
     background-color: var(--LEFT_NAV_BGCOLOR);
@@ -51,4 +60,15 @@
 
 .courses {
     display: block;
+}
+
+.main-container {
+    flex: 1;
+    padding: 36px 40px 40px 40px;
+    height: 100vh;
+    background-color: aqua;
+}
+
+.right-items{
+    background-color: bisque;
 }
