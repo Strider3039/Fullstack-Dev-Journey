@@ -50,12 +50,18 @@
     font-size: 40px;
 }
 
+a, a:hover, a:focus, a:any-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .left-nav-item {
     padding: 1rem 0.3rem;
     transition: background 0.4s ease;
     width: 100%;
     text-align: center;
     font-size: 27px;
+    text-decoration: none;
 }
 
 .left-nav-item:hover,
