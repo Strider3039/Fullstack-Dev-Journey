@@ -5,7 +5,6 @@
     https://www.remove.bg/upload - remove photo backgrounds
 */
 
-
 /* CSS RESET */
 * {
     margin: 0;
@@ -16,6 +15,9 @@
 :root {
     --LEFT_NAV_BGCOLOR: #333;
     --LEFT_NAV_BGCOLOR_ALT: hsl(0, 0%, 16%);
+
+    --FIRST_CARD_COLOR: hsl(0, 0%, 60%);
+    --FIRST_CARD_TITLE: hsl(0, 0%, 40%);
 }
 
 .app {
@@ -50,7 +52,10 @@
     font-size: 40px;
 }
 
-a, a:hover, a:focus, a:any-link {
+a,
+a:hover,
+a:focus,
+a:any-link {
     text-decoration: none;
     color: inherit;
 }
@@ -108,8 +113,9 @@ a, a:hover, a:focus, a:any-link {
 
 .card {
     display: flex;
+    flex-flow: column nowrap;
     width: 262px;
-    height: 250px;
+    height: 260px;
     background-color: white;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
@@ -124,7 +130,7 @@ a, a:hover, a:focus, a:any-link {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    height: 60%;
+    height: 55%;
     width: 100%;
     background-color: #333;
     border-radius: 5px 5px 0 0;
@@ -138,7 +144,7 @@ a, a:hover, a:focus, a:any-link {
 }
 
 .course1-header {
-    background-color: hsl(0, 0%, 60%);
+    background-color: var(--FIRST_CARD_COLOR);
 }
 
 .course2-header {
@@ -159,6 +165,56 @@ a, a:hover, a:focus, a:any-link {
 
 .course6-header {
     background-color: #c9c9bb;
+}
+
+.course-title {
+    display: flex;
+    flex: 1;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: center;
+    margin-left: 24px;
+    gap: 5px;
+}
+
+.strong-title {
+    font-size: 13px;
+    margin-top: 15px;
+    font-weight: 700;
+    font-family: 'Lato Extended', 'Lato', 'Helvetica Neue', Helvetica, Arial,
+        sans-serif;
+    height: auto;
+}
+
+.strong-title1 {
+    color: #909090;
+}
+
+.strong-title2 {
+    color: #a3b18a;
+}
+
+.strong-title3 {
+    color: #c97c5d;
+}
+
+.strong-title4 {
+    color: #6c91bf;
+}
+
+.strong-title5 {
+    color: rgb(217, 202, 179);
+}
+
+.strong-title6 {
+    color: #c9c9bb;
+}
+
+.course-year {
+    font-size: smaller;
+    margin-top: -5px;
+    color: gray;
 }
 
 .right-items-container {
