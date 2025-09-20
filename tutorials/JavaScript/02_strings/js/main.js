@@ -2,6 +2,7 @@
 const myVariable = "Mathematic";
 
 // String Methods
+console.log(myVariable.charAt(5));
 console.log(myVariable.indexOf("Mat"));
 console.log(myVariable.lastIndexOf("at"));
 console.log(myVariable.slice(5,10));
