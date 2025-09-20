@@ -1,13 +1,11 @@
-// Numbers
-const myNumber = 42;
-const myFloat = 42.0234;
-const myString = "42.123abc";
+// Math Methods and Properties
+// console.log(Math.PI);
+// console.log(Math.trunc(Math.PI));
+// console.log(Math.round(Math.PI));
+// console.log(Math.ceil(Math.PI));
+// console.log(Math.floor(Math.PI));
 
-// Number Methods
-console.log(myNumber === myFloat);
-console.log(myNumber === myString);
-console.log(Number(myString) === myNumber);
-console.log(Number.parseFloat(myString));       // returns 42.123
-console.log(Number.parseInt(myFloat));
-console.log(Number.isNaN("Dave"));
-console.log(isNaN("Dave"));
+console.log(Math.pow(5,2));
+console.log(Math.min(2, .5, 9));
+console.log(Math.max(2, .5, 9));
+console.log(Math.floor(Math.random() * 10) + 1);        // always use floor method +1 for random num
