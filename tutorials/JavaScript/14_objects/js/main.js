@@ -54,3 +54,8 @@ console.log(Object.values(band));
 for (let job in band) {
     console.log(`On ${job}, its ${band[job]}`);
 }
+
+// destructuring using function
+function sings({vocals}) {return `${vocals} sings.`}
+
+console.log(sings(band))
