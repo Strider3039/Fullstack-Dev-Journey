@@ -59,3 +59,7 @@ for (let job in band) {
 function sings({vocals}) {return `${vocals} sings.`}
 
 console.log(sings(band))
+
+// JSON Example
+const myJSON = JSON.stringify(band);
+console.log(myJSON);
